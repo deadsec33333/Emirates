@@ -1,0 +1,34 @@
+/* TEAM */
+	Head of Online: Ismail Mohamed Sidiya
+	Contact: isidiya [at] dmi.ae
+	Twitter: @IsmailMSidiya
+	From: Dubai, UAE
+
+	Web Developer: Padmini Rupert
+	Contact: prupert [at] Ey.ae
+	From: Dubai, UAE
+
+	Web Developer: Akila Rajendran
+	Contact: arajendran [at] Ey.ae
+	From: Dubai, UAE
+
+	System Admin: Sami Ullah
+	Contact: SUllah [at] Ey.ae
+	From: Dubai, UAE
+
+	Chief Editor: Riyad Mickdady
+	Contact: riyad [at] emirates247.com
+	From: Dubai, UAE
+
+	Managing Editor: Eudore Chand
+	Contact: eudore [at] emirates247.com
+	From: Dubai, UAE
+
+/* THANKS */
+
+/* SITE */
+	Last update: 2013/10/31
+	Language: English
+	Standards: HTML5, CSS3
+	Components: Modernizr, jQuery
+	Software: Eclipse, Notepad++, FileZilla, Photoshop
